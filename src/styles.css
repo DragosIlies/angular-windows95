@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body{
+    background-color: #008080;
+}
+
+
+
+.boundary {
+    border: dotted #ccc 2px;
+    height: 900px;
+  }
+
+img {
+    height:44px;
+    width: 44px;;
+}
